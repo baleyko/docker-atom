@@ -4,6 +4,7 @@
 [![GitHub Releases](https://img.shields.io/github/release/baleyko/docker-atom.svg)](https://github.com/baleyko/docker-atom/releases)
 [![Docker Hub Image Layers](https://images.microbadger.com/badges/image/baleyko/atom.svg)](https://microbadger.com/images/baleyko/atom)
 [![Docker Hub Image Tag](https://images.microbadger.com/badges/version/baleyko/atom.svg)](https://microbadger.com/images/baleyko/atom)
+[![Docker Pulls](https://img.shields.io/docker/pulls/baleyko/atom.svg)](https://hub.docker.com/r/baleyko/atom/)
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](http://opensource.org/licenses/MIT)
 
 These are sources files used to build [Docker](https://www.docker.com/) image with [Atom](https://atom.io/) inside. The main goal of this image is to provide possibility to run tests during Atom packages development. The built Docker image is available on [Docker Hub](https://hub.docker.com/).
